@@ -1,3 +1,4 @@
 body {
-    background-color: linear-gradient(180deg, #3f87a6, #ebf8e1, #f69d3c);
+    background-color: linear-gradient(#3f87a6, #ebf8e1, #f69d3c);
+    height: 100%;
 }
