@@ -2,3 +2,7 @@
     background: #3f87a6;
     height: 100vh;
 }
+
+#header {
+    background: blue;
+}
