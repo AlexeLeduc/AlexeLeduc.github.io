@@ -6,3 +6,7 @@
 #header {
     background: rgb(43, 44, 46);
 }
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: rgb(231, 167, 84);
+}
