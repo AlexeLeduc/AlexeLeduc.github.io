@@ -9,6 +9,7 @@
 /*  */
 body {
     background: -webkit-linear-gradient(rgb(231, 167, 84), rgb(53, 64, 116));
+    height: 100vh;
 }
 
 .nav-pills .nav-link.active {
