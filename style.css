@@ -13,3 +13,7 @@
 .nav-link {
     color: azure;
 }
+
+.nav-link:hover {
+    color: rgb(231, 167, 84);
+}
