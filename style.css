@@ -3,10 +3,13 @@
 /* BootStrap overwritte */
 /*  */
 body {
-    background: -webkit-linear-gradient(rgb(231, 167, 84), rgb(53, 64, 116));
-    height: 100vh;
+    padding-bottom: 20px;
 }
-
+  
+.navbar {
+    margin-bottom: 20px;
+}
+  
 .nav-pills .nav-link.active {
     background-color: rgb(231, 167, 84) !important;
 }
