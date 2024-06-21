@@ -1,7 +1,7 @@
 #bg-color{
     background: linear-gradient(rgb(129, 203, 211), #cd6a81);
+    height: 100vh;
 }
-
 
 /*  */
 /* BootStrap overwritte */
@@ -9,15 +9,4 @@
 .navbar {
     margin-bottom: 20px;
 }
-  
-.nav-pills .nav-link.active {
-    background-color: rgb(231, 167, 84) !important;
-}
 
-.nav-link {
-    color: azure;
-}
-
-.nav-link:hover {
-    color: rgb(231, 167, 84);
-}
