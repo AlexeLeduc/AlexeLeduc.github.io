@@ -1,11 +1,11 @@
+#temp-logo{
+    width: 50px;
+}
+
 
 /*  */
 /* BootStrap overwritte */
 /*  */
-body {
-    padding-bottom: 20px;
-}
-  
 .navbar {
     margin-bottom: 20px;
 }
